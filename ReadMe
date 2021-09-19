@@ -15,12 +15,11 @@ Steps to Run the project:
 •	Create 1 emulator using Android studio or use your real android device by connecting it to laptop (make sure Developer option is enabled and select option usb for debugging)
 •	Run ‘adb devices’ and make sure device is connected. Copy the device id from here.
 •	Open Git bash and run following commands:
-
-	Execute command to install apk in your connected device ‘adb -s <device_id> install <path_to_apk_file>’ 
-	Execute ‘git clone https://github.com/amitk09/Amit-Kumar-Monefy-Automation.git’
-	Execute command ‘cd monefy-automation’ 
-	Execute ‘npm install’
-	Execute ‘npm test run ./test-config.js ’
+        	Execute command to install apk in your connected device ‘adb -s <device_id> install <path_to_apk_file>’ 
+        	Execute ‘git clone https://github.com/amitk09/Amit-Kumar-Monefy-Automation.git’
+        	Execute command ‘cd monefy-automation’ 
+        	Execute ‘npm install’ to install all the dependencies
+        	Execute ‘npm test run ./test-config.js ’
 •	Report will be available in allure-reports folder once the execution of test cases completed. 
 
 Explanation of used tools:
