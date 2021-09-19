@@ -22,6 +22,9 @@ Steps to Run the project:
         	Execute ‘npm test run ./test-config.js ’
 •	Report will be available in allure-reports folder once the execution of test cases completed. 
 
+Test cases
+-- Excel file is attached to see autumated scenario- "Monefy Automation Test cases.xlsx"
+
 Explanation of used tools:
 •	WebDriverIO has very good native app support for automation and running the test cases. 
 •	JavaScript and its related tool are comparatively faster than other programming language. 
