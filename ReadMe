@@ -6,6 +6,7 @@ Below is the tools and technology used:
 •	Mocha
 •	Chai for assertion
 •	webDriverIO
+        APK file is attached in case user does not have it before hand. 
 
 Steps to Run the project:
 •	Install NodeJS 14.15.1
