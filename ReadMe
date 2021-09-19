@@ -1,7 +1,7 @@
 Below is the tools and technology used:
 •	NodeJS 14.15.1
 •	Appium Desktop 1.21.0
-•	Android Studio (for running emulator)
+•	Android Studio (for running emulator or connecting real device)
 •	JavaScript
 •	Mocha
 •	Chai for assertion
