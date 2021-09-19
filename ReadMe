@@ -19,6 +19,7 @@ Steps to Run the project:
         	Execute command to install apk in your connected device ‘adb -s <device_id> install <path_to_apk_file>’ 
         	Execute ‘git clone https://github.com/amitk09/Amit-Kumar-Monefy-Automation.git’
         	Execute command ‘cd monefy-automation’ 
+                Open test-config.js file and find Capabilities. Update the device id in UDID to run the test on connected device.
         	Execute ‘npm install’ to install all the dependencies
         	Execute ‘npm test run ./test-config.js ’
 •	Report will be available in allure-reports folder once the execution of test cases completed. 
