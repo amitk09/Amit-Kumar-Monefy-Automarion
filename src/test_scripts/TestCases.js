@@ -1,6 +1,6 @@
 import Steps from'../test_scripts/Steps';
 
-describe('1. Verify app header as Monnefy', function(){
+describe('1. Verify app header as Monefy', function(){
 
     it('user should be able see Monefy on top', async function(){
         await  Steps.verify_header();
