@@ -32,6 +32,7 @@ Explanation of used tools:
 •	Used page object model to locate element and steps class to maintain good quality of code. 
 •	Used Allure reporting to get good view of test scenarios and result
 •	Appium is leading and dominating tool in market for native and hybrid apps automation. 
+        Used Chai for assertion. 
 
 
 
