@@ -1,22 +1,23 @@
-# Below is the tools and technology used:
+# Tools and Technology:
+ Below is the tools and technology used
 
-	*	NodeJS 14.15.1
-	*	Appium Desktop 1.21.0
-	*	Android Studio (for running emulator or connecting real device)
-	*	JavaScript
-	*	Mocha
-	*	Chai for assertion
-	*	webDriverIO
-	*   APK file is attached in case user does not have it before hand. 
+	* NodeJS 14.15.1
+	* Appium Desktop 1.21.0
+	* Android Studio (for running emulator or connecting real device)
+	* JavaScript
+	* Mocha
+	* Chai for assertion
+	* webDriverIO
+	* APK file is attached in case user does not have it before hand. 
 
 # Steps to Run the project:
-	*   Install NodeJS 14.15.1
-	*	Install git Bash
-	*	Install Appium and run the server on 4723 port (default port)
-	*	Install Android Studio and setup environment variables to run ‘adb’ commands
-	*	Create 1 emulator using Android studio or use your real android device by connecting it to laptop (make sure Developer option is enabled and select option usb for debugging)
-	*	Run ‘adb devices’ and make sure device is connected. Copy the device id from here.
-	*	Open Git bash and do the following:
+	* Install NodeJS 14.15.1
+	* Install git Bash
+	* Install Appium and run the server on 4723 port (default port)
+	* Install Android Studio and setup environment variables to run ‘adb’ commands
+	* Create 1 emulator using Android studio or use your real android device by connecting it to laptop (make sure Developer option is enabled and select option usb for debugging)
+	* Run ‘adb devices’ and make sure device is connected. Copy the device id from here.
+	* Open Git bash and do the following:
 				* Execute command to install apk in your connected device ‘adb -s <device_id> install <path_to_apk_file>’ 
 				* Execute ‘git clone https://github.com/amitk09/Amit-Kumar-Monefy-Automation.git’
 				* Execute command ‘cd monefy-automation’ 
