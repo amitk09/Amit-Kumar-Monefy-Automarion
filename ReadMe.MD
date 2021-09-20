@@ -24,19 +24,19 @@
 				* Open test-config.js file and find Capabilities. Update the device id in UDID to run the test on connected device.
 				* Execute ‘npm install’ to install all the dependencies
 				* Execute ‘npm test run ./test-config.js ’
-	*	Report will be available in allure-reports folder once the execution of test cases completed. 
+	* Report will be available in allure-reports folder once the execution of test cases completed. 
 
 # Test cases
 	* Excel file is attached to see autumated scenario- "Monefy Automation Test cases.xlsx"
 
 # Explanation of used tools:
-	*	WebDriverIO has very good native app support for automation and running the test cases. 
-	*	JavaScript and its related tool are comparatively faster than other programming language. 
-	*	Mocha is awesome tool to manage and execute the test cases and test suite
-	*	Used page object model to locate element and steps class to maintain good quality of code. 
-	*	Used Allure reporting to get good view of test scenarios and result
-	*	Appium is leading and dominating tool in market for native and hybrid apps automation. 
-	*   Used Chai for assertion. 
+	* WebDriverIO has very good native app support for automation and running the test cases. 
+	* JavaScript and its related tool are comparatively faster than other programming language. 
+	* Mocha is awesome tool to manage and execute the test cases and test suite
+	* Used page object model to locate element and steps class to maintain good quality of code. 
+	* Used Allure reporting to get good view of test scenarios and result
+	* Appium is leading and dominating tool in market for native and hybrid apps automation. 
+	* Used Chai for assertion. 
 
 
 
